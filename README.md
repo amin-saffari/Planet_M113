@@ -1,2 +1,2 @@
 # Planet_M113
-Simplyfied DamagePattern and ....
+Simplified damagePattern and others
